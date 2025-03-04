@@ -33,7 +33,7 @@ git clone https://github.com/AndGz912/ChallengeAlura.git
 - Resultado del sorteo:
 ![image](https://github.com/user-attachments/assets/b8e2e1cb-959a-48c9-925b-ae7a2726d8b9)
 
-##Autor
+## Autor
 
 Andrew Gonzales Zeña - YGz912
 
