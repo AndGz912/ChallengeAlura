@@ -18,4 +18,4 @@ Este proyecto es una aplicación en JavaScript que permite a los usuarios ingres
 ## Instalación y Uso
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/AndGz912/ChallengeAlura
+https://github.com/AndGz912/ChallengeAlura
