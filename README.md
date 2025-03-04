@@ -18,7 +18,8 @@ Este proyecto es una aplicación en JavaScript que permite a los usuarios ingres
 ## Instalación y Uso
 1. Clona el repositorio:
    ```sh
-git clone https://github.com/AndGz912/ChallengeAlura.git
+   git clone https://github.com/AndGz912/ChallengeAlura.git
+
 2. Abre el archivo index.html en el navegador.
 3. Ingresa nombres y presiona el botón correspondiente para agregar a la lista.
 4. Presiona el botón de sorteo para obtener un nombre aleatorio.
